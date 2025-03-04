@@ -1,0 +1,298 @@
+{
+    "tourist_attractions": [
+      
+      {
+        "id": "1",
+        "name": "Wat Rong Khun",
+        "location": "Mueang Chiang Rai, Thailand",
+        "rating": 4.8,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Wat_Rong_Khun_-_Chiang_Rai.jpg/800px-Wat_Rong_Khun_-_Chiang_Rai.jpg"
+      },
+      {
+        "id": "2",
+        "name": "Wat Rong Suea Ten",
+        "location": "Mueang Chiang Rai, Thailand",
+        "rating": 4.6,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Wat_Rong_Suea_Ten_%28Blue_Temple%2C_Chiang_Rai%29_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A3%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%AA%E0%B8%B7%E0%B8%AD%E0%B9%80%E0%B8%95%E0%B9%89%E0%B8%99_%28October_2021%29_-_img_21.jpg"
+      },
+      {
+        "id": "3",
+        "name": "Singha Park",
+        "location": "Mueang Chiang Rai, Thailand",
+        "rating": 4.6,
+        "image": "https://image-tc.galaxy.tf/wijpeg-5aacuyuvlhcy4b3sso31osv8d/singha-park.jpg"
+      },
+      {
+        "id": "4",
+        "name": "Baan Dam Museum",
+        "location": "Mueang Chiang Rai, Thailand",
+        "rating": 4.5,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/Muzeum_Baan_Dam%2C_nazywane_%E2%80%9ECzarnym_Domem%E2%80%9D_w_Chiang_Rai%2C_Tajlandia.jpg"
+      },
+      {
+        "id": "5",
+        "name": "Doi Tung Royal Villa",
+        "location": "Mae Fah Luang, Chiang Rai, Thailand",
+        "rating": 4.7,
+        "image": "https://shop.doitung.com/wp-content/uploads/2020/09/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%95%E0%B8%B3%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%811Large.jpg"
+      },
+      {
+        "id": "6",
+        "name": "Choui Fong Tea Plantation",
+        "location": "Mae Chan, Chiang Rai, Thailand",
+        "rating": 4.5,
+        "image": "https://olsentours.com/wp-content/uploads/2022/07/choui-fong-tea-plantation.jpg"
+      },
+      {
+        "id": "7",
+        "name": "Mae Fah Luang Garden",
+        "location": "Mae Fah Luang, Chiang Rai, Thailand",
+        "rating": 4.6,
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/02/2a/70/b2/the-gardens-in-october.jpg?w=1000&h=-1&s=1"
+      },
+      {
+        "id": "8",
+        "name": "Golden Triangle",
+        "location": "Chiang Saen, Chiang Rai, Thailand",
+        "rating": 4.4,
+        "image": "https://warmcheaptrips.com/wp-content/uploads/2023/05/Golden-Triangle-791x600.jpg"
+      },
+      {
+        "id": "9",
+        "name": "Wat Huay Pla Kang",
+        "location": "Mueang Chiang Rai, Thailand",
+        "rating": 4.7,
+        "image": "https://olsentours.com/wp-content/uploads/2020/03/wat-huay-pla-kang.jpg.webp"
+      },
+      {
+        "id": "10",
+        "name": "Phu Chi Fa",
+        "location": "Thoeng, Chiang Rai, Thailand",
+        "rating": 4.8,
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/f4/6a/e1/caption.jpg?w=600&h=400&s=1"
+      },
+      {
+        "id": "11",
+        "name": "Oub Kham Museum",
+        "location": "Mueang Chiang Rai, Thailand",
+        "rating": 4.5,
+        "image": "https://mychiangmaitour.com/wp-content/uploads/2018/02/oub_kham_museum01.jpg"
+      },
+      {
+        "id": "12",
+        "name": "Chiang Rai Clock Tower",
+        "location": "Mueang Chiang Rai, Thailand",
+        "rating": 4.4,
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/1d/fc/8f/clock-tower.jpg?w=900&h=500&s=1"
+      },
+      {
+        "id": "13",
+        "name": "Hill Tribe Museum",
+        "location": "Mueang Chiang Rai, Thailand",
+        "rating": 4.3,
+        "image": "https://images.squarespace-cdn.com/content/v1/5919f7bfd2b857811c061c2f/af08a3de-cc8d-40d8-8a2a-6748e9ed07fd/hill-tribes-of-northern-thailand-museum.jpg?format=2500w"
+      },
+      {
+        "id": "14",
+        "name": "Rai Mae Fah Luang",
+        "location": "Mueang Chiang Rai, Thailand",
+        "rating": 4.6,
+        "image": "https://lh5.googleusercontent.com/p/AF1QipPJ6bjjB39xUP1n39NpfvvGDD6U6A9HXe6oIwwy=w270-h312-n-k-no"
+      },
+      {
+        "id": "15",
+        "name": "Doi Mae Salong",
+        "location": "Mae Salong, Chiang Rai, Thailand",
+        "rating": 4.7,
+        "image": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcSD0E7HUmDRMb3gMN3jrKodHjEBjpBf5iYp4-vg6oi2waSUY_Bd6r7qsF8aWL8hodM9fWjjZ-3gFQ4lhiPPkU_A5g0hz4BjMfh0xbTnPg"
+      },
+  
+      
+      {
+        "id": "16",
+        "name": "Grand Palace",
+        "location": "Bangkok, Thailand",
+        "rating": 4.7,
+        "image": "https://lh5.googleusercontent.com/p/AF1QipPmsVEOtBUaIGA3UpoPZbKeC45Mpunrl01bB-Hc=w270-h312-n-k-no"
+      },
+      {
+        "id": "17",
+        "name": "Wat Pho",
+        "location": "Bangkok, Thailand",
+        "rating": 4.8,
+        "image": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/09/44/69/ba.jpg"
+      },
+      {
+        "id": "18",
+        "name": "Wat Arun",
+        "location": "Bangkok, Thailand",
+        "rating": 4.7,
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/ee/e6/a5/wat-arun-is-an-ancient.jpg?w=900&h=-1&s=1"
+      },
+      {
+        "id": "19",
+        "name": "Chatuchak Market",
+        "location": "Bangkok, Thailand",
+        "rating": 4.5,
+        "image": "https://images.squarespace-cdn.com/content/v1/5fa57aacf5b0a90a76b0d7cc/1670838076633-3YJ5WZDFA1N0O8LG1OTY/becoming-carmen-travel-thailand-bangkok-chatuchak-jj-weekend-market?format=2500wg"
+      },
+      {
+        "id": "20",
+        "name": "Jim Thompson House",
+        "location": "Bangkok, Thailand",
+        "rating": 4.6,
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/f3/f2/f8/outside.jpg?w=1000&h=-1&s=1"
+      },
+      {
+        "id": "21",
+        "name": "MBK Center",
+        "location": "Bangkok, Thailand",
+        "rating": 4.4,
+        "image": "https://www.mbk-center.co.th/images/upload/blog/01071/photo-1071-20240715184643.jpg"
+      },
+      {
+        "id": "22",
+        "name": "Siam Paragon",
+        "location": "Bangkok, Thailand",
+        "rating": 4.6,
+        "image": "https://www.siamparagon.co.th/public/images/aboutus/SPD.jpg"
+      },
+      {
+        "id": "23",
+        "name": "Lumpini Park",
+        "location": "Bangkok, Thailand",
+        "rating": 4.5,
+        "image": "https://www.ibisstylesbangkoksilom.com/wp-content/uploads/sites/220/2023/02/AdobeStock_174942762-min-2048x1044.jpeg"
+      },
+      {
+        "id": "24",
+        "name": "Asiatique The Riverfront",
+        "location": "Bangkok, Thailand",
+        "rating": 4.5,
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/38/a4/11/inside-asiatique.jpg?w=900&h=500&s=1"
+      },
+      {
+        "id": "25",
+        "name": "Erawan Shrine",
+        "location": "Bangkok, Thailand",
+        "rating": 4.4,
+        "image": "https://www.thaizer.com/wp-content/uploads/2012/09/erawan_shrine_bangkok-1.jpg"
+      },
+      {
+        "id": "26",
+        "name": "Bangkok National Museum",
+        "location": "Bangkok, Thailand",
+        "rating": 4.5,
+        "image": "https://yourthaiguide.com/wp-content/uploads/2016/05/national-museum-in-bangkok-1.jpg"
+      },
+      {
+        "id": "27",
+        "name": "Chao Phraya River",
+        "location": "Bangkok, Thailand",
+        "rating": 4.6,
+        "image": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcRwtELSwb9LvJTQNCkmXtWydnHacyXn8AEq33IJXQ5MhbmDvTt-Q17Ts4iQyF_y68XCWUgZQjca1KDKbYrp5xRNttdJP72WnsxBheRKRg"
+      },
+      {
+        "id": "28",
+        "name": "Terminal 21",
+        "location": "Bangkok, Thailand",
+        "rating": 4.5,
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/23/e8/30/photo0jpg.jpg?w=900&h=-1&s=1g"
+      },
+      {
+        "id": "29",
+        "name": "Khao San Road",
+        "location": "Bangkok, Thailand",
+        "rating": 4.3,
+        "image": "https://www.tripsavvy.com/thmb/gT9h9jvdHLj1MQsavXODA3ivEEU=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/khao-san-road-backpackers-bangkok-2b78598d683a4a02873dbbeedf351f4b.jpg"
+      },
+      {
+        "id": "30",
+        "name": "Sea Life Bangkok Ocean World",
+        "location": "Bangkok, Thailand",
+        "rating": 4.5,
+        "image": "https://www.travizgo.com/blog/wp-content/uploads/2020/08/cover-web-750x375.jpg"
+      },
+  
+      
+      {
+        "id": "31",
+        "name": "Wat Phra That Doi Suthep",
+        "location": "Chiang Mai, Thailand",
+        "rating": 4.8,
+        "image": "https://www.aleenta.com/wp-content/uploads/Wat-Phra-That-Doi-Suthep-in-Chiang-Mai.jpg"
+      },
+      {
+        "id": "32",
+        "name": "Chiang Mai Night Bazaar",
+        "location": "Chiang Mai, Thailand",
+        "rating": 4.4,
+        "image": "https://www.theakyra.com/files/2214/5456/0974/Night-Bazaar.jpg"
+      },
+  
+  
+      {
+        "id": "33",
+        "name": "Patong Beach",
+        "location": "Phuket, Thailand",
+        "rating": 4.5,
+        "image": "https://phuketelephantnaturereserve.com/wp-content/uploads/2025/01/Patong-Beach-1536x864.jpg"
+      },
+      {
+        "id": "34",
+        "name": "Big Buddha Phuket",
+        "location": "Phuket, Thailand",
+        "rating": 4.6,
+        "image": "https://shippedaway.com/wp-content/uploads/2023/11/Big-Buddha-Phuket-Thailand-23.jpg"
+      },
+  
+     
+      {
+        "id": "35",
+        "name": "Railay Beach",
+        "location": "Krabi, Thailand",
+        "rating": 4.7,
+        "image": "https://www.safarfriendly.com/wp-content/uploads/2025/02/istockphoto-1309901420-170667a.jpg"
+      },
+      {
+        "id": "36",
+        "name": "Phi Phi Islands",
+        "location": "Krabi, Thailand",
+        "rating": 4.8,
+        "image": "https://www.thainationalparks.com/img/poi/2022/03/20/397817/phi-phi-beach-w-900.jpg"
+      },
+  
+      
+      {
+        "id": "37",
+        "name": "Pattaya Beach",
+        "location": "Chonburi, Thailand",
+        "rating": 4.4,
+        "image": "https://www.masonpattaya.com/wp-content/uploads/2024/01/pattaya-beaches.webp"
+      },
+      {
+        "id": "38",
+        "name": "Sanctuary of Truth",
+        "location": "Chonburi, Thailand",
+        "rating": 4.7,
+        "image": "https://www.tripsavvy.com/thmb/FNcFFWR0WAlTg694_5zF_uCl4QY=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-153251156-5c51cc3ac9e77c00016f38c1.jpg"
+      },
+  
+      
+      {
+        "id": "39",
+        "name": "Wat Mahathat",
+        "location": "Ayutthaya, Thailand",
+        "rating": 4.7,
+        "image": "https://cdn.elebase.io/173fe953-8a63-4a8a-8ca3-1bacb56d78a5/efa0b803-1772-47c8-a930-00171c04b467-mahathat-gallery-01.jpg?w=1000&h=500&fit=crop&q=75"
+      },
+      {
+        "id": "40",
+        "name": "Ayutthaya Historical Park",
+        "location": "Ayutthaya, Thailand",
+        "rating": 4.8,
+        "image": "https://res.klook.com/image/upload/c_fill,w_1265,h_712/q_80/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/sckfddieu8o506l2haw9.webp"
+      }
+      
+    ]
+  }
