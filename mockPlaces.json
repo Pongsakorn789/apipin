@@ -1,0 +1,298 @@
+{
+    "tourist_attractions": [
+      
+      {
+        "id": "1",
+        "name": "Wat Rong Khun",
+        "location": "Mueang Chiang Rai, Thailand",
+        "rating": 4.8,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Wat_Rong_Khun_-_Chiang_Rai.jpg/800px-Wat_Rong_Khun_-_Chiang_Rai.jpg"
+      },
+      {
+        "id": "2",
+        "name": "Wat Rong Suea Ten",
+        "location": "Mueang Chiang Rai, Thailand",
+        "rating": 4.6,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Wat_Rong_Suea_Ten_%28Blue_Temple%2C_Chiang_Rai%29_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A3%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%AA%E0%B8%B7%E0%B8%AD%E0%B9%80%E0%B8%95%E0%B9%89%E0%B8%99_%28October_2021%29_-_img_21.jpg"
+      },
+      {
+        "id": "3",
+        "name": "Singha Park",
+        "location": "Mueang Chiang Rai, Thailand",
+        "rating": 4.6,
+        "image": "https://image-tc.galaxy.tf/wijpeg-5aacuyuvlhcy4b3sso31osv8d/singha-park.jpg"
+      },
+      {
+        "id": "4",
+        "name": "Baan Dam Museum",
+        "location": "Mueang Chiang Rai, Thailand",
+        "rating": 4.5,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/Muzeum_Baan_Dam%2C_nazywane_%E2%80%9ECzarnym_Domem%E2%80%9D_w_Chiang_Rai%2C_Tajlandia.jpg"
+      },
+      {
+        "id": "5",
+        "name": "Doi Tung Royal Villa",
+        "location": "Mae Fah Luang, Chiang Rai, Thailand",
+        "rating": 4.7,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Doi_Tung_Royal_Villa.jpg/800px-Doi_Tung_Royal_Villa.jpg"
+      },
+      {
+        "id": "6",
+        "name": "Choui Fong Tea Plantation",
+        "location": "Mae Chan, Chiang Rai, Thailand",
+        "rating": 4.5,
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/8b/1b/8e/choui-fong-tea-plantation.jpg"
+      },
+      {
+        "id": "7",
+        "name": "Mae Fah Luang Garden",
+        "location": "Mae Fah Luang, Chiang Rai, Thailand",
+        "rating": 4.6,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Mae_Fah_Luang_Garden_01.jpg/800px-Mae_Fah_Luang_Garden_01.jpg"
+      },
+      {
+        "id": "8",
+        "name": "Golden Triangle",
+        "location": "Chiang Saen, Chiang Rai, Thailand",
+        "rating": 4.4,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Golden_Triangle%2C_Chiang_Rai%2C_Thailand.jpg/800px-Golden_Triangle%2C_Chiang_Rai%2C_Thailand.jpg"
+      },
+      {
+        "id": "9",
+        "name": "Wat Huay Pla Kang",
+        "location": "Mueang Chiang Rai, Thailand",
+        "rating": 4.7,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Wat_Huay_Pla_Kang_01.jpg/800px-Wat_Huay_Pla_Kang_01.jpg"
+      },
+      {
+        "id": "10",
+        "name": "Phu Chi Fa",
+        "location": "Thoeng, Chiang Rai, Thailand",
+        "rating": 4.8,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Phu_Chi_Fa_01.jpg/800px-Phu_Chi_Fa_01.jpg"
+      },
+      {
+        "id": "11",
+        "name": "Oub Kham Museum",
+        "location": "Mueang Chiang Rai, Thailand",
+        "rating": 4.5,
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/7b/2f/8f/oub-kham-museum.jpg"
+      },
+      {
+        "id": "12",
+        "name": "Chiang Rai Clock Tower",
+        "location": "Mueang Chiang Rai, Thailand",
+        "rating": 4.4,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Chiang_Rai_Clock_Tower_at_night.jpg/800px-Chiang_Rai_Clock_Tower_at_night.jpg"
+      },
+      {
+        "id": "13",
+        "name": "Hill Tribe Museum",
+        "location": "Mueang Chiang Rai, Thailand",
+        "rating": 4.3,
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/6f/3f/8e/hill-tribe-museum.jpg"
+      },
+      {
+        "id": "14",
+        "name": "Rai Mae Fah Luang",
+        "location": "Mueang Chiang Rai, Thailand",
+        "rating": 4.6,
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/5b/5f/8f/rai-mae-fah-luang.jpg"
+      },
+      {
+        "id": "15",
+        "name": "Doi Mae Salong",
+        "location": "Mae Salong, Chiang Rai, Thailand",
+        "rating": 4.7,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Doi_Mae_Salong_01.jpg/800px-Doi_Mae_Salong_01.jpg"
+      },
+  
+      
+      {
+        "id": "16",
+        "name": "Grand Palace",
+        "location": "Bangkok, Thailand",
+        "rating": 4.7,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Grand_Palace_Bangkok.jpg/800px-Grand_Palace_Bangkok.jpg"
+      },
+      {
+        "id": "17",
+        "name": "Wat Pho",
+        "location": "Bangkok, Thailand",
+        "rating": 4.8,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Wat_Pho_Bangkok.jpg/800px-Wat_Pho_Bangkok.jpg"
+      },
+      {
+        "id": "18",
+        "name": "Wat Arun",
+        "location": "Bangkok, Thailand",
+        "rating": 4.7,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Wat_Arun_Bangkok.jpg/800px-Wat_Arun_Bangkok.jpg"
+      },
+      {
+        "id": "19",
+        "name": "Chatuchak Market",
+        "location": "Bangkok, Thailand",
+        "rating": 4.5,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Chatuchak_Market.jpg/800px-Chatuchak_Market.jpg"
+      },
+      {
+        "id": "20",
+        "name": "Jim Thompson House",
+        "location": "Bangkok, Thailand",
+        "rating": 4.6,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Jim_Thompson_House.jpg/800px-Jim_Thompson_House.jpg"
+      },
+      {
+        "id": "21",
+        "name": "MBK Center",
+        "location": "Bangkok, Thailand",
+        "rating": 4.4,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/MBK_Center_Bangkok.jpg/800px-MBK_Center_Bangkok.jpg"
+      },
+      {
+        "id": "22",
+        "name": "Siam Paragon",
+        "location": "Bangkok, Thailand",
+        "rating": 4.6,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Siam_Paragon.jpg/800px-Siam_Paragon.jpg"
+      },
+      {
+        "id": "23",
+        "name": "Lumpini Park",
+        "location": "Bangkok, Thailand",
+        "rating": 4.5,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Lumpini_Park.jpg/800px-Lumpini_Park.jpg"
+      },
+      {
+        "id": "24",
+        "name": "Asiatique The Riverfront",
+        "location": "Bangkok, Thailand",
+        "rating": 4.5,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Asiatique_The_Riverfront.jpg/800px-Asiatique_The_Riverfront.jpg"
+      },
+      {
+        "id": "25",
+        "name": "Erawan Shrine",
+        "location": "Bangkok, Thailand",
+        "rating": 4.4,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Erawan_Shrine.jpg/800px-Erawan_Shrine.jpg"
+      },
+      {
+        "id": "26",
+        "name": "Bangkok National Museum",
+        "location": "Bangkok, Thailand",
+        "rating": 4.5,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Bangkok_National_Museum.jpg/800px-Bangkok_National_Museum.jpg"
+      },
+      {
+        "id": "27",
+        "name": "Chao Phraya River",
+        "location": "Bangkok, Thailand",
+        "rating": 4.6,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Chao_Phraya_River.jpg/800px-Chao_Phraya_River.jpg"
+      },
+      {
+        "id": "28",
+        "name": "Terminal 21",
+        "location": "Bangkok, Thailand",
+        "rating": 4.5,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Terminal_21_Bangkok.jpg/800px-Terminal_21_Bangkok.jpg"
+      },
+      {
+        "id": "29",
+        "name": "Khao San Road",
+        "location": "Bangkok, Thailand",
+        "rating": 4.3,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Khao_San_Road.jpg/800px-Khao_San_Road.jpg"
+      },
+      {
+        "id": "30",
+        "name": "Sea Life Bangkok Ocean World",
+        "location": "Bangkok, Thailand",
+        "rating": 4.5,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Sea_Life_Bangkok.jpg/800px-Sea_Life_Bangkok.jpg"
+      },
+  
+      
+      {
+        "id": "31",
+        "name": "Wat Phra That Doi Suthep",
+        "location": "Chiang Mai, Thailand",
+        "rating": 4.8,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Wat_Phra_That_Doi_Suthep.jpg/800px-Wat_Phra_That_Doi_Suthep.jpg"
+      },
+      {
+        "id": "32",
+        "name": "Chiang Mai Night Bazaar",
+        "location": "Chiang Mai, Thailand",
+        "rating": 4.4,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Chiang_Mai_Night_Bazaar.jpg/800px-Chiang_Mai_Night_Bazaar.jpg"
+      },
+  
+  
+      {
+        "id": "33",
+        "name": "Patong Beach",
+        "location": "Phuket, Thailand",
+        "rating": 4.5,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Patong_Beach.jpg/800px-Patong_Beach.jpg"
+      },
+      {
+        "id": "34",
+        "name": "Big Buddha Phuket",
+        "location": "Phuket, Thailand",
+        "rating": 4.6,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Big_Buddha_Phuket.jpg/800px-Big_Buddha_Phuket.jpg"
+      },
+  
+     
+      {
+        "id": "35",
+        "name": "Railay Beach",
+        "location": "Krabi, Thailand",
+        "rating": 4.7,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Railay_Beach.jpg/800px-Railay_Beach.jpg"
+      },
+      {
+        "id": "36",
+        "name": "Phi Phi Islands",
+        "location": "Krabi, Thailand",
+        "rating": 4.8,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Phi_Phi_Islands.jpg/800px-Phi_Phi_Islands.jpg"
+      },
+  
+      
+      {
+        "id": "37",
+        "name": "Pattaya Beach",
+        "location": "Chonburi, Thailand",
+        "rating": 4.4,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Pattaya_Beach.jpg/800px-Pattaya_Beach.jpg"
+      },
+      {
+        "id": "38",
+        "name": "Sanctuary of Truth",
+        "location": "Chonburi, Thailand",
+        "rating": 4.7,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Sanctuary_of_Truth.jpg/800px-Sanctuary_of_Truth.jpg"
+      },
+  
+      
+      {
+        "id": "39",
+        "name": "Wat Mahathat",
+        "location": "Ayutthaya, Thailand",
+        "rating": 4.7,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Wat_Mahathat_Ayutthaya.jpg/800px-Wat_Mahathat_Ayutthaya.jpg"
+      },
+      {
+        "id": "40",
+        "name": "Ayutthaya Historical Park",
+        "location": "Ayutthaya, Thailand",
+        "rating": 4.8,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Ayutthaya_Historical_Park.jpg/800px-Ayutthaya_Historical_Park.jpg"
+      }
+      
+    ]
+  }
