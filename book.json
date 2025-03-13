@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "title": "หนังสือเล่มที่ 1",
+      "author": "ผู้เขียน A",
+      "image": "https://static01.nyt.com/images/2024/06/30/books/best-books-jjksd01sj-flat-slide-2ADW/best-books-jjksd01sj-flat-slide-2ADW-articleLarge.png"
+    },
+    {
+      "id": 2,
+      "title": "หนังสือเล่มที่ 2",
+      "author": "ผู้เขียน B",
+      "image": "https://static01.nyt.com/images/2024/06/30/books/best-books-jjksd01sj-flat-slide-WIYI/best-books-jjksd01sj-flat-slide-WIYI-articleLarge.png"
+    },
+    {
+      "id": 3,
+      "title": "หนังสือเล่มที่ 3",
+      "author": "ผู้เขียน c",
+      "image": "https://static01.nyt.com/images/2024/06/30/books/best-books-jjksd01sj-flat-slide-N0L6/best-books-jjksd01sj-flat-slide-N0L6-articleLarge.png"
+    },
+    {
+      "id": 4,
+      "title": "หนังสือเล่มที่ 4",
+      "author": "ผู้เขียน c",
+      "image": "https://static01.nyt.com/images/2024/06/30/books/best-books-jjksd01sj-flat-slide-3D8A/best-books-jjksd01sj-flat-slide-3D8A-articleLarge.png"
+    },
+    {
+      "id": 5,
+      "title": "หนังสือเล่มที่ 5",
+      "author": "ผู้เขียน d",
+      "image": "https://static01.nyt.com/images/2024/06/30/books/books-additional-skewsksk-slide-ATV5/books-additional-skewsksk-slide-ATV5-superJumbo.png"
+      
+    }
+  ]
